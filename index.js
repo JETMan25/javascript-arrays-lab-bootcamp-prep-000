@@ -11,5 +11,5 @@ function destructivelyAppendKitten(){
 }
 
   function destructivelyPrependKitten(){
-    kittens.unshift('Heathcliff');
+    kittens.unshift('Bob');
   }
