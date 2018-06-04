@@ -23,7 +23,7 @@ function destructivelyAppendKitten(){
   }
   
   function appendKitten(){
-    return ['Milo', 'Otis', 'Garfield', 'Nermal'];
+    return ['Milo', 'Otis', 'Garfield', 'Broom'];
   }
   
   
