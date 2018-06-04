@@ -23,5 +23,5 @@ function destructivelyAppendKitten(){
   }
   
   function appendKitten(){
-    var 
+    return arr = ['Milo', 'Otis', 'Garfield', 'Nermal'];
   }
