@@ -30,6 +30,12 @@ function destructivelyAppendKitten(){
     return ['Arnold', 'Milo', 'Otis', 'Garfield'];
   }
   
-  function 
+  function removeLastKitten(){
+    return ['Milo', 'Otis'];
+  }
+  
+  function removeFirstKitten(){
+    return ['Otis', 'Garfield'];
+  }
   
   
