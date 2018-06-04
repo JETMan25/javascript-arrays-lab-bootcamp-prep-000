@@ -15,5 +15,9 @@ function destructivelyAppendKitten(){
   }
   
   function destructivelyRemoveLastKitten(){
-    kittens.pop('Milo');
+    kittens.pop('Garfield');
+  }
+  
+  function destructivelyRemoveFirstKitten(){
+    kittens.shift('Milo');
   }
