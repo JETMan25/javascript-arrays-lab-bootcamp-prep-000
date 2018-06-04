@@ -21,3 +21,7 @@ function destructivelyAppendKitten(){
   function destructivelyRemoveFirstKitten(){
     kittens.shift('Milo');
   }
+  
+  function appendKitten(){
+    var 
+  }
