@@ -26,4 +26,8 @@ function destructivelyAppendKitten(){
     return ['Milo', 'Otis', 'Garfield', 'Broom'];
   }
   
+  function prependKitten(){
+    return ['Broom', 'Milo', 'Otis', 'Garfield'];
+  }
+  
   
